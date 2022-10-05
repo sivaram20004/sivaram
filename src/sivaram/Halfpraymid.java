@@ -12,7 +12,7 @@ public class Halfpraymid {
 		 
           
        
-        		  System.out.print("    *    ");
+        		  System.out.print("   *   ");
         	  
         	  }
           System.out.println();  
